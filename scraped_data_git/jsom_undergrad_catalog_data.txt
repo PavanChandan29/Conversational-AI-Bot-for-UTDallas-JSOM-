@@ -6757,9 +6757,32 @@ Links:
 ================================================================================
 URL: https://coursebook.utdallas.edu/search/now/math1325
 Headings:
+- CourseBook
 Content:
+No course sections matched your search criteria.
+Please try again using fewer or different search terms.
 Lists:
+- class search
+- guided search
+- my classes
+- my events
+- instruction modalities
+- search results
 Links:
+- CourseBook - https://coursebook.utdallas.edu
+- Syllabus Policies - https://coursebook.utdallas.edu/syllabus-policies
+- Syllabus Templates - https://provost.utdallas.edu/faculty/resources/syllabus-templates/
+- class search - /search
+- guided search - /guidedsearch
+- my classes - /myclasses
+- my events - /myevents
+- instruction modalities - /modalities
+- Click here to tryGuided Searchto find classes or build a schedule - /guidedsearch
+- search results - /searchresults
+- UT Dallas - https://www.utdallas.edu
+- OISDS - https://oisds.utdallas.edu
+- CourseBook Support - mailto:wat@utdallas.edu?subject=CourseBook Support
+- Privacy Policy - https://www.utdallas.edu/privacy/
 
 ================================================================================
 URL: https://enroll.utdallas.edu/transfer/criteria/
