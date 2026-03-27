@@ -1,17 +1,5 @@
 Month: Mar, 2026
 
-Date: Thursday, March 26, 2026
-Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
-Location: 
-Event URL: 50650387211292&instance=50650393088658
---------------------------------------------------
-Date: Thursday, March 26, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM Walk-In Hours - JSOM GRAD
-Location: 
-Event URL: 51569244902863&instance=51569265115816
---------------------------------------------------
 Date: Friday, March 27, 2026
 Time: 10:00 AM - 12:00 PM
 Title: Accounting Career Exploration with Grant Thornton
@@ -159,6 +147,12 @@ Location:
 Event URL: 52136100315119&instance=52136100316144
 --------------------------------------------------
 Date: Tuesday, April 21, 2026
+Time: 10:00 AM - 02:00 PM
+Title: JSOM Global Service Week
+Location: 
+Event URL: 52461206737725&instance=52461217312868
+--------------------------------------------------
+Date: Tuesday, April 21, 2026
 Time: 01:00 PM - 04:00 PM
 Title: JSOM - Undergraduate Walk-in Hours
 Location: 
@@ -171,16 +165,22 @@ Location:
 Event URL: 50605698757868&instance=51943217873167
 --------------------------------------------------
 Date: Wednesday, April 22, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Customized Online MBA Webinar
+Time: 11:45 AM - 01:15 PM
+Title: Session VI | From Blueprint to Building:  The Journey of JSOM III
 Location: 
-Event URL: 52143463985249&instance=52143471597956
+Event URL: 51949624177361&instance=51949627820281
 --------------------------------------------------
 Date: Wednesday, April 22, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569358801759&instance=51569372779906
+Event URL: 51391687844898&instance=51391744038980
+--------------------------------------------------
+Date: Wednesday, April 22, 2026
+Time: 05:30 PM - 06:30 PM
+Title: Doctor of Business Administration (DBA) Online Information Session
+Location: 
+Event URL: 52003375524887&instance=52003380582129
 --------------------------------------------------
 Date: Thursday, April 23, 2026
 Time: 01:00 PM - 04:00 PM
