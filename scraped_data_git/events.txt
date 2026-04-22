@@ -1,46 +1,34 @@
 Month: Apr, 2026
 
-Date: Tuesday, April 21, 2026
-Time: 10:00 AM - 02:00 PM
-Title: JSOM Global Service Week
+Date: Wednesday, April 22, 2026
+Time: 09:00 AM - 10:00 AM
+Title: MS in International Management Studies Information Session
 Location: 
-Event URL: 52461206737725&instance=52461217312868
---------------------------------------------------
-Date: Tuesday, April 21, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391688105236&instance=51391741765427
---------------------------------------------------
-Date: Tuesday, April 21, 2026
-Time: 05:30 PM - 07:30 PM
-Title: OBCC Spring 2026 Gather & Grow Networking Mixer
-Location: 
-Event URL: 52198382848212&instance=52198382849237
+Event URL: 50605698757868&instance=51943217873167
 --------------------------------------------------
 Date: Wednesday, April 22, 2026
-Time: 10:00 AM - 02:00 PM
-Title: JSOM Global Service Week
+Time: 11:45 AM - 01:15 PM
+Title: Session VI | From Blueprint to Building:  The Journey of JSOM III
 Location: 
-Event URL: 52461206737725&instance=52461217313893
+Event URL: 51949624177361&instance=51949627820281
 --------------------------------------------------
 Date: Wednesday, April 22, 2026
-Time: 12:00 PM - 01:00 PM
-Title: Customized Online MBA Webinar
+Time: 12:00 PM - 12:30 PM
+Title: JSOM CMC- Back on Track to Apply: 5 Steps to Reset Your Internship Search
 Location: 
-Event URL: 52143463985249&instance=52143471597956
+Event URL: 52488454782369&instance=52488457853909
 --------------------------------------------------
 Date: Wednesday, April 22, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Time: 01:00 PM - 03:00 PM
+Title: Earth Day Flower Potting
 Location: 
-Event URL: 52118180250222&instance=52576173440216
+Event URL: 52675125419717&instance=52675132084767
 --------------------------------------------------
 Date: Wednesday, April 22, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
+Title: JSOM CMC Walk-In Hours - JSOM GRAD
 Location: 
-Event URL: 51391687844898&instance=51391744038980
+Event URL: 51569358801759&instance=51569372779906
 --------------------------------------------------
 Date: Wednesday, April 22, 2026
 Time: 04:00 PM - 06:00 PM
@@ -176,35 +164,41 @@ Title: JSOM - Undergraduate Walk-in Hours
 Location: 
 Event URL: 51391785525970&instance=51391817842686
 --------------------------------------------------
-Date: Tuesday, May 19, 2026
-Time: 02:00 PM - 03:30 PM
-Title: Executive Education Graduation Reception
+Date: Wednesday, May 13, 2026
+Time: 07:00 PM - 08:00 PM
+Title: Customized Online MBA Webinar
 Location: 
-Event URL: 52516733863678&instance=52516733863679
+Event URL: 52683201047081&instance=52683230049100
 --------------------------------------------------
 Date: Wednesday, May 20, 2026
-Time: 05:45 PM - 07:00 PM
-Title: Doctor of Business Administration (DBA) in person meet & greet
+Time: 12:00 PM - 01:00 PM
+Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 52003393108396&instance=52003406060998
+Event URL: 52118180250222&instance=52576173443290
 --------------------------------------------------
 Date: Tuesday, May 26, 2026
-Time: 12:00 PM - 01:00 PM
-Title: EMBA Webinar
-Location: 
-Event URL: 50650438767869&instance=50650442897000
---------------------------------------------------
-Date: Wednesday, May 27, 2026
-Time: 12:00 PM - 12:30 PM
-Title: Fast Track in MS Marketing Information Session
-Location: 
-Event URL: 51994608484859&instance=51994611182600
---------------------------------------------------
-Date: Thursday, May 28, 2026
-Time: 01:00 PM - 02:00 PM
+Time: 10:00 AM - 11:00 AM
 Title: MS Marketing Information Session with Q & A Period
 Location: 
-Event URL: 52001936402813&instance=52001940270711
+Event URL: 52001932351306&instance=52001935830198
+--------------------------------------------------
+Date: Wednesday, May 27, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50322144938712&instance=50322144971493
+--------------------------------------------------
+Date: Thursday, May 28, 2026
+Time: 12:00 PM - 07:00 PM
+Title: UT Dallas Project Management Symposium
+Location: 
+Event URL: 51214599125945&instance=51214599126970
+--------------------------------------------------
+Date: Friday, May 29, 2026
+Time: 08:00 AM - 05:00 PM
+Title: UT Dallas Project Management Symposium
+Location: 
+Event URL: 51214612090731&instance=51214612091756
 --------------------------------------------------
 Month: Jun, 2026
 
