@@ -1,23 +1,5 @@
 Month: Apr, 2026
 
-Date: Thursday, April 23, 2026
-Time: 07:30 AM - 05:00 PM
-Title: The Sales Decades Project hosted by Center of Professional Sales
-Location: 
-Event URL: 52507490165500&instance=52507490167550
---------------------------------------------------
-Date: Thursday, April 23, 2026
-Time: 01:00 PM - 04:00 PM
-Title: JSOM - Undergraduate Walk-in Hours
-Location: 
-Event URL: 51391687575577&instance=51391746329234
---------------------------------------------------
-Date: Thursday, April 23, 2026
-Time: 05:30 PM - 06:30 PM
-Title: Executive Coaching Virtual Information Session
-Location: 
-Event URL: 51967504325072&instance=51967504327121
---------------------------------------------------
 Date: Friday, April 24, 2026
 Time: 06:00 PM - 09:00 PM
 Title: PPF Graduation Dinner
@@ -86,47 +68,47 @@ Title: JSOM CMC: Don't Miss Out: Get Credit for Your Internship
 Location: 
 Event URL: 52488639952799&instance=52488647337290
 --------------------------------------------------
-Date: Monday, May 04, 2026
-Time: 07:00 PM - 08:00 PM
-Title: Customized Online MBA Webinar
-Location: 
-Event URL: 52143477504650&instance=52143483795425
---------------------------------------------------
 Date: Tuesday, May 05, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569421076553&instance=51569454330919
+Event URL: 51391786013037&instance=51391812036041
 --------------------------------------------------
 Date: Tuesday, May 05, 2026
-Time: 05:00 PM - 05:30 PM
-Title: JSOM CMC- Maximize Your Internship: How to Stand Out and Succeed
+Time: 03:30 PM - 05:00 PM
+Title: ProEdge Series: Transitioning from Student to Professional
 Location: 
-Event URL: 52488659721930&instance=52488664484770
+Event URL: 51995086127161&instance=51995101860128
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
-Time: 10:00 AM - 11:00 AM
-Title: Master of Science in Finance Online Information Session
+Time: 08:30 AM - 09:30 AM
+Title: Discover. Apply. Advance. – Jindal School of Management Graduate Experience Webinar
 Location: 
-Event URL: 50322144938712&instance=50322144968420
+Event URL: 52074929710735&instance=52074939052639
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
 Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Title: Doctor of Business Administration (DBA) Online Information Session
 Location: 
-Event URL: 52118180250222&instance=52576173442265
+Event URL: 52003384992529&instance=52003389062544
 --------------------------------------------------
 Date: Wednesday, May 06, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569420815086&instance=51569460562814
+Event URL: 51391785772294&instance=51391814583370
 --------------------------------------------------
 Date: Thursday, May 07, 2026
 Time: 01:00 PM - 04:00 PM
-Title: JSOM CMC Walk-In Hours - JSOM GRAD
+Title: JSOM - Undergraduate Walk-in Hours
 Location: 
-Event URL: 51569420157303&instance=51569465956882
+Event URL: 51391785525970&instance=51391817842686
+--------------------------------------------------
+Date: Wednesday, May 13, 2026
+Time: 07:00 PM - 08:00 PM
+Title: Customized Online MBA Webinar
+Location: 
+Event URL: 52683201047081&instance=52683230049100
 --------------------------------------------------
 Date: Tuesday, May 19, 2026
 Time: 02:00 PM - 03:30 PM
@@ -172,23 +154,29 @@ Title: Executive Coaching Virtual Information Session
 Location: 
 Event URL: 51967504325072&instance=51967504328146
 --------------------------------------------------
-Date: Tuesday, June 16, 2026
-Time: 06:00 PM - 07:00 PM
-Title: Online Information Session | Professional Certificate in Mediation and Dispute Resolution
+Date: Saturday, June 13, 2026
+Time: 10:15 AM - 01:30 PM
+Title: EMBA Open House
 Location: 
-Event URL: 51967244492666&instance=51967249688733
+Event URL: 52691649963589&instance=52691660603819
+--------------------------------------------------
+Date: Wednesday, June 17, 2026
+Time: 10:00 AM - 11:00 AM
+Title: Master of Science in Finance Online Information Session
+Location: 
+Event URL: 50322144938712&instance=50322144973542
 --------------------------------------------------
 Date: Wednesday, June 17, 2026
 Time: 12:00 PM - 01:00 PM
+Title: EMBA Webinar
+Location: 
+Event URL: 50650448146546&instance=50650451587351
+--------------------------------------------------
+Date: Monday, June 29, 2026
+Time: 07:00 PM - 08:00 PM
 Title: Customized Online MBA Webinar
 Location: 
-Event URL: 52691605508033&instance=52691624840239
---------------------------------------------------
-Date: Wednesday, June 17, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
-Location: 
-Event URL: 52118180250222&instance=52576173447388
+Event URL: 52691626081178&instance=52691631524301
 --------------------------------------------------
 Month: Jul, 2026
 
@@ -238,17 +226,23 @@ Event URL: 52118180250222&instance=52576173453536
 --------------------------------------------------
 Month: Sep, 2026
 
-Date: Wednesday, September 09, 2026
+Date: Wednesday, September 02, 2026
+Time: 10:00 PM - 11:00 PM
+Title: MSBA&AI Flex Late Night Virtual Info Session: Career Fair 101
+Location: 
+Event URL: 52708811078151&instance=52708811079176
+--------------------------------------------------
+Date: Wednesday, September 23, 2026
 Time: 12:00 PM - 01:00 PM
 Title: MS Supply Chain Management and MS Management Science Info Session
 Location: 
-Event URL: 52118180250222&instance=52576173456610
+Event URL: 52118180250222&instance=52576173458659
 --------------------------------------------------
 Month: Oct, 2026
 
-Date: Wednesday, October 07, 2026
-Time: 12:00 PM - 01:00 PM
-Title: MS Supply Chain Management and MS Management Science Info Session
+Date: Thursday, October 01, 2026
+Time: 10:00 PM - 11:00 PM
+Title: MSBA&AI Flex Late Night Virtual Internship Panel
 Location: 
-Event URL: 52118180250222&instance=52576173460708
+Event URL: 52708832092576&instance=52708832093601
 --------------------------------------------------
