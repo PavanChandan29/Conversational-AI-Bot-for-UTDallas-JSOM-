@@ -9,7 +9,7 @@ Academic Certificates:
 
 Accounting and Finance:
 
-Healthcare:
+Healthcare Management:
 
 Information Systems:
 
@@ -53,7 +53,7 @@ For Executive Education Academic Certificates, see  https://exceed-utdallas.edu/
 Smallblocks:
 Accounting and Finance:
 
-Healthcare:
+Healthcare Management:
 
 Information Systems:
 
@@ -89,7 +89,7 @@ List:
   - Financial Data Science (Link: /fin/program-resources/financial-data-science-certificate/)
   - Insurance Technology and Analytics (Link: https://fin.utdallas.edu/program-resources/certificate-in-insurance-technology-and-analytics/)
 
-Healthcare:
+Healthcare Management:
 List:
   - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/)
   - Lean Six Sigma in Healthcare Quality – Yellow Belt (Link: /osim/program-resources/healthcare-certificates/lean-six-sigma-yellow-belt/)
@@ -173,7 +173,7 @@ Academic Certificates:
 
 Accounting and Finance:
 
-Healthcare:
+Healthcare Management:
 
 Information Systems:
 
@@ -217,7 +217,7 @@ For Executive Education Academic Certificates, see  https://exceed-utdallas.edu/
 Smallblocks:
 Accounting and Finance:
 
-Healthcare:
+Healthcare Management:
 
 Information Systems:
 
@@ -253,7 +253,7 @@ List:
   - Financial Data Science (Link: /fin/program-resources/financial-data-science-certificate/)
   - Insurance Technology and Analytics (Link: https://fin.utdallas.edu/program-resources/certificate-in-insurance-technology-and-analytics/)
 
-Healthcare:
+Healthcare Management:
 List:
   - Healthcare Information Technology (Link: /osim/program-resources/healthcare-certificates/healthcare-it/)
   - Lean Six Sigma in Healthcare Quality – Yellow Belt (Link: /osim/program-resources/healthcare-certificates/lean-six-sigma-yellow-belt/)
