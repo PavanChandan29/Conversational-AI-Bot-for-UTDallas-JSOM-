@@ -907,7 +907,7 @@ Context: Special Event Requests
 
 Context: Student Development
 	- Text: Student Development
-	  Href: https://jindal.utdallas.edu/nlp/
+	  Href: https://jindal.utdallas.edu/student-development/
 
 Context: Student Resources
 	- Text: Student Resources
@@ -1361,7 +1361,7 @@ Context: Special Event Requests
 
 Context: Student Development
 	- Text: Student Development
-	  Href: https://jindal.utdallas.edu/nlp/
+	  Href: https://jindal.utdallas.edu/student-development/
 
 Context: Student Resources
 	- Text: Student Resources
@@ -1612,6 +1612,10 @@ Context: Upcoming Events
 Context: UTDsolv Capstone EXPO!
 	- Text: UTDsolv Capstone EXPO!
 	  Href: https://calendar.utdallas.edu/event/utdsolv-capstone-expo
+
+Context: Spring 2026 Ceremonies
+	- Text: Spring 2026 Ceremonies
+	  Href: https://commencement.utdallas.edu/ceremony-schedules/schedule/
 
 Context: UT Dallas Project Management Symposium
 	- Text: UT Dallas Project Management Symposium
