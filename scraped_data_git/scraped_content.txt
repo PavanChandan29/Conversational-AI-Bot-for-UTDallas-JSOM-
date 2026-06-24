@@ -1769,9 +1769,9 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: OSV Summer Series: Carter BloodCare Blood Donation Drive
-	- Text: OSV Summer Series: Carter BloodCare Blood Donation Drive
-	  Href: https://calendar.utdallas.edu/event/osv-summer-series-carter-bloodcare-blood-donation-drive
+Context: World Cup at the ICP Student Lounge
+	- Text: World Cup at the ICP Student Lounge
+	  Href: https://calendar.utdallas.edu/event/world-cup-icp
 
 Context: FinTEX – Insurance Conference 2026
 	- Text: FinTEX – Insurance Conference 2026
